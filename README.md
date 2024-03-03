@@ -5,4 +5,7 @@ this is Demo for git and github class.
 rutvik ahir 
 
 # city
-ahmedabad
+ahmedabad 
+
+# college name
+silver oak university
